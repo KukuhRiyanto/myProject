@@ -1,9 +1,8 @@
 # Hierarchical Inheritance
-This project about Hierarchical Inheritance. Multiple children classes inherits from the same parent (one parent).
-The project is one sample from Hierarchical Inheritance about Asset Management System using python program. 
-The program has one parent class called Asset and three child classes: Laptop, Vehicle, and Building.
-The Asset class contains common information that every asset has, such as:
-Asset ID, Asset Name, Asset Value and Total asset.
+This project about Hierarchical Inheritance. Multiple children classes inherits from the same parent (one parent).   
+The project is one sample from Hierarchical Inheritance about Asset Management System using python program.   
+The program has one parent class called Asset and three child classes: Laptop, Vehicle, and Building. The Asset class contains common information that every asset has, such as: Asset ID, Asset Name, Asset Value and Total asset.
+
 Three objects are created.
 
 <img width="199" height="199" alt="image" src="https://github.com/user-attachments/assets/3ce8ec00-9963-4016-af0d-319cf07c05bc" />
